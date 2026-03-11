@@ -16,6 +16,7 @@ jupyter_notebooks/current_exercises.ipynb
 
 # Datasets
 datasets/mall_customers_k-means.csv
+datasets/fashion_mnist_processed.npz
 
 # __Course work support (samples)__
 
